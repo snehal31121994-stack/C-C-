@@ -10,5 +10,6 @@ int main()
     {
          printf("Age is not within the allowed range");
     }
+    
     return 0;
 }
