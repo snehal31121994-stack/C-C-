@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+{
+    int n;
+    printf("Enter First number: ");
+    scanf("%d",&n);
+    int x;
+    printf("Enter Second number: ");
+    scanf("%d",&x);
+
+    printf(" Addition = %d\n",n+x);
+    printf(" Subtraction = %d\n",n-x);
+    printf(" Multiplication = %d\n",n*x);
+    printf(" Division = %d\n",n/x);
+    printf(" Remainder = %d\n",n%x);
+
+    return 0;
+
+}
