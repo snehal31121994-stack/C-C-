@@ -1,0 +1,4 @@
+Name : Snehal Nikam
+Engineering : ENTC
+Learning c programming
+ current topic : file handling
